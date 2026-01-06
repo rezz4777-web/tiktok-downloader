@@ -47,11 +47,10 @@ export default function Home() {
           <div className="text-center space-y-4">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
                <span className="relative flex h-2 w-2"><span className="animate-ping absolute h-full w-full rounded-full bg-primary opacity-75"></span><span className="relative rounded-full h-2 w-2 bg-primary"></span></span>
-               Fast & Free TikTok Downloader
             </div>
             <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight dark:text-white text-gray-900">
               Download TikTok Videos <br/>
-              <span className="text-primary">Without Watermark</span>
+              <span className="text-primary">Tanpa Watermark</span>
             </h1>
             <p className="text-gray-500 dark:text-gray-400 max-w-md mx-auto text-sm md:text-base">Masukkan URL video TikTok di bawah ini untuk mengunduh video berkualitas tinggi secara gratis.</p>
           </div>
